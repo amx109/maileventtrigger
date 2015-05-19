@@ -8,7 +8,7 @@ imap_server   = "your_server"
 imap_port     = "993"
 imap_username = "username"
 imap_pw       = "pw"
-soundfile     = "sound.wav"
+soundfile     = "91924__benboncan__till-with-bell.wav"
 
 def new_mail_generator(last_uid, host, port, login, password):
     # connect
