@@ -53,7 +53,7 @@ def main():
         pygame.mixer.init()
         pygame.mixer.music.load(soundfile)
         pygame.mixer.music.play()
-        time.sleep(2)
+        time.sleep(2.5)
 
 if __name__ == "__main__":
     main()
